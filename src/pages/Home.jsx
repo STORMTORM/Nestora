@@ -47,7 +47,6 @@ function Home() {
                 <div className="absolute inset-0 bg-black opacity-20" />
                 <section className="flex flex-col items-center justify-center w-full z-1">
                         <h1 className="text-5xl text-center md:text-7xl text-white font-semibold mx-3 mb-10">Smart Real Estate Platform</h1>
-                        {/* <p className="text-lg text-center md:text-4xl text-gray-300 mx-8 mb-4">From residential to commercial, we've got you covered.</p> */}
                         <input
                             type="text"
                             placeholder={`Search ${placeholder}`}

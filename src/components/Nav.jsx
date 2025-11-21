@@ -2,7 +2,7 @@ import { NavLink } from 'react-router-dom';
 
 function Nav() {
     return (
-        <nav className="backdrop-blur-lg bg-transparent py-2 md:p-4 md:px-10 px-6 fixed top-0 w-full flex z-10 justify-between items-center">
+        <nav className="backdrop-blur-lg bg-black/10 py-2 md:p-4 md:px-10 px-6 fixed top-0 w-full flex z-10 justify-between items-center">
             <h1 className="text-[#FCA311] text-3xl font-semibold">NESTORA</h1>
             <div className='hidden md:flex justify-center items-center'>
                 <ul className="flex space-x-9 font-semibold">
